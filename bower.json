@@ -1,0 +1,21 @@
+{
+  "name": "201509blog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "weizhizhou <weizhizhou_0@sina.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/weizhizhou/201509blog",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
